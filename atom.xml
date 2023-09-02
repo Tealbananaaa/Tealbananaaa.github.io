@@ -3,8 +3,84 @@
     <id>http://example.com</id>
     <title>hexo</title>
     <link href="http://example.com" />
-    <updated>2023-09-01T14:31:58.000Z</updated>
+    <updated>2023-09-02T07:07:51.372Z</updated>
     <category term="test" />
+    <entry>
+        <id>http://example.com/2023/09/02/%E4%B8%8D%E4%B8%93%E4%B8%9A%E7%9A%84%E5%BB%BA%E7%AD%91%E7%AC%94%E8%AE%B0/</id>
+        <title></title>
+        <link rel="alternate" href="http://example.com/2023/09/02/%E4%B8%8D%E4%B8%93%E4%B8%9A%E7%9A%84%E5%BB%BA%E7%AD%91%E7%AC%94%E8%AE%B0/"/>
+        <content type="html">&lt;h1 id=&#34;不专业的建筑笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#不专业的建筑笔记&#34;&gt;#&lt;/a&gt; 不专业的建筑笔记&lt;/h1&gt;
+&lt;p&gt;2023.09.01 开始读这本书。&lt;/p&gt;
+&lt;p&gt;原本是去逸夫馆寻找在诚品书店遇到的《半片砖瓦》，结果偶然刷到这本很不错的书。&lt;/p&gt;
+&lt;p&gt;原本晚上打算开个 word 写笔记，拖延了一下没动笔，结果就接触了写作工具 typora。&lt;/p&gt;
+&lt;p&gt;好吧，对建筑我是小白，对软件我也是小白。我一穷二白，白手起家。也没什么，瞎学吧。&lt;/p&gt;
+&lt;h3 id=&#34;1建筑要素&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1建筑要素&#34;&gt;#&lt;/a&gt; 1. 建筑要素&lt;/h3&gt;
+&lt;h4 id=&#34;1造型布局&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1造型布局&#34;&gt;#&lt;/a&gt; 1. 造型布局&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;基本的三段式造型：屋顶 屋身 台基（例：故宫 三重须弥座台基）&lt;/li&gt;
+&lt;li&gt;中国建筑多长边方向开门而西方多短边方向&lt;/li&gt;
+&lt;li&gt;多围合 内向型 封闭&lt;/li&gt;
+&lt;li&gt;长边称&lt;strong&gt;面阔&lt;/strong&gt; 短边称&lt;strong&gt;进深&lt;/strong&gt; 两根立柱间称&lt;strong&gt;开间&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2大木作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2大木作&#34;&gt;#&lt;/a&gt; 2. 大木作&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;大木作&lt;/strong&gt; 木制结构构件，起承重作用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小木作&lt;/strong&gt; 门窗 家具&lt;/li&gt;
+&lt;li&gt;术语体系：元代以前《营造法式》 明清时期《工程做法》&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;柱&lt;/strong&gt; 单棵树木主干制成 (传递载荷至地面)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;梁&lt;/strong&gt; 进深方向（竖着）的水平承力 多为矩形 南方有一些圆梁 秀丽轻巧 称为&lt;strong&gt;月梁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;额 枋 檩&lt;/strong&gt; 面阔方向（横着）的水平承力  大的是额小的是枋 最上面直接拖着屋顶的是檩&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;椽 飞&lt;/strong&gt; 檩上面盖的一层木条是椽 架住屋顶 飞是椽延长出来扬起的部分 &lt;strong&gt;通常唐代以后才有&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3结构类型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3结构类型&#34;&gt;#&lt;/a&gt; 3. 结构类型&lt;/h4&gt;
+&lt;p&gt;风格差异大而结构类型差异小 （换外观不变内核）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;抬梁&lt;/strong&gt; 最主流 柱顶置梁 梁端接檩 梁上放短柱 一层层往上。可以实现大跨度，少柱，开敞&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;穿斗&lt;/strong&gt; 常见于南方 柱密集 柱贯通整个空间 直接架檩 中间小梁串联&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;井干&lt;/strong&gt; 木材直接平行向上垒 极其费木 东北西南林区有见&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（推测：北方政治和祭祀功能的大型建筑较多 南方多一些民居 木材也丰富）&lt;/p&gt;
+&lt;p&gt;（感慨一下。去年夏天实践在皖南乡下见到了很多穿斗式的屋子，文欣姐给我讲了这两种结构的大概。回来又在北京故宫观察了抬梁。今年冬天在广西的路上江枫给我指过一所井干式的屋子，可惜当时也没好好看清。想来有趣。谢谢这些可爱建筑人拉我入门。）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;石砌 夯土（台基） 砖拱券仿木&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4斗拱&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4斗拱&#34;&gt;#&lt;/a&gt; 4. 斗拱&lt;/h4&gt;
+&lt;p&gt;层层出跳，托举住上面的檐。装饰性强。通常用于高级建筑。明清时结构功能已经比较弱。&lt;/p&gt;
+&lt;p&gt;宋称为一朵斗拱，清称为一攒。&lt;/p&gt;
+&lt;p&gt;分为柱头、柱间、转角。（宋代叫 “铺作”）&lt;/p&gt;
+&lt;p&gt;规格以&lt;strong&gt;拱与昂的出跳数量&lt;/strong&gt;定义&lt;/p&gt;
+&lt;h4 id=&#34;5榫卯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5榫卯&#34;&gt;#&lt;/a&gt; 5. 榫卯&lt;/h4&gt;
+&lt;p&gt;凸出为榫 凹入为卯&lt;/p&gt;
+&lt;p&gt;（文字根本写不清 太过精妙）&lt;/p&gt;
+&lt;h4 id=&#34;6屋顶&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6屋顶&#34;&gt;#&lt;/a&gt; 6. 屋顶&lt;/h4&gt;
+&lt;p&gt;造型最体现等级秩序，是一种标识物。影响单体造型和群组布局。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;庑殿顶&lt;/strong&gt; 也叫 四阿顶 四个坡面。最高等级。（五台山佛光寺）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;悬山顶&lt;/strong&gt; 两坡 屋顶两端悬挑 在山墙之外 遮风避雨保护木结构和墙 。最多见。常用于民居。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;歇山顶&lt;/strong&gt; 悬山顶基础上加了一圈副阶 九脊 后期出现&lt;strong&gt;卷棚歇山&lt;/strong&gt; 没有正脊 弧形屋顶&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;硬山顶&lt;/strong&gt; 悬山顶不出挑。砖石结构的山墙，不需要遮蔽保护。民居常见。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;攒尖顶&lt;/strong&gt; 较小 园林常见 宫殿坛庙亦有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一套严格细致的等级秩序 排序是 ** 重檐 &amp;gt; 单檐  庑殿 &amp;gt; 歇山 &amp;gt; 攒尖 &amp;gt; 悬山 &amp;gt; 硬山&lt;/p&gt;
+&lt;p&gt;观察故宫 正殿用庑殿，配殿差一点，前导再差一点。太和殿重檐庑殿 中和殿辅助 单檐攒尖 保和殿重檐歇山&lt;/p&gt;
+&lt;h4 id=&#34;7台基&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7台基&#34;&gt;#&lt;/a&gt; 7. 台基&lt;/h4&gt;
+&lt;p&gt;功能：预潮。&lt;/p&gt;
+&lt;p&gt;常见夯土，外包砖石。方形吸取佛座造型变为须弥座。石砌。故宫台基均为汉白玉。&lt;/p&gt;
+&lt;h4 id=&#34;8小木作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8小木作&#34;&gt;#&lt;/a&gt; 8. 小木作&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;版门&lt;/strong&gt;即对开的大门 宅院大门&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隔扇门 &amp;amp; 窗&lt;/strong&gt; 小型建筑本体 &lt;strong&gt;上部棂花和下部裙板&lt;/strong&gt;组成&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;外檐木雕&lt;/strong&gt; 在立柱上做大量雕刻装饰  晋商大院、徽商民居（有钱的人雕梁画栋）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;藻井 &amp;amp; 天花&lt;/strong&gt; 藻井是穹顶 天花是水平方向 最初真的绘画藻类和水生生物，为了避火。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;彩画&lt;/strong&gt; 在建筑结构上用颜色画图案就是彩画 比如额上。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;10脊饰&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10脊饰&#34;&gt;#&lt;/a&gt; 10. 脊饰&lt;/h4&gt;
+&lt;p&gt;象征主义文化传统的体现。鸱（一种海兽）的尾巴，与藻井类似，辟邪防火。&lt;/p&gt;
+&lt;p&gt;南北朝成熟，盛唐下方出现龙首形状，辽宋西夏明显龙头鱼尾，&lt;strong&gt;信仰的混合过渡阶段特征&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;金元明清完全变成龙形，名为 “鸱吻”&lt;/p&gt;
+</content>
+        <updated>2023-09-02T07:07:51.372Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2023/09/01/aaaarticle/</id>
         <title>aaaarticle</title>
